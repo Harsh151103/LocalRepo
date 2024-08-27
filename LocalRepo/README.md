@@ -1,4 +1,4 @@
-# this is my LocalRepo
+# This is my LocalRepo
 Hello this is my 2nd repository
 <br>
 - Harsh
